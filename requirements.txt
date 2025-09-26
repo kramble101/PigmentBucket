@@ -2,3 +2,12 @@ fastapi>=0.111,<0.112
 uvicorn[standard]>=0.30,<0.31
 pydantic>=2.8,<2.9
 requests>=2.32,<2.33
+numpy>=1.26,<2.0
+opencv-python-headless>=4.9,<4.10
+scikit-learn>=1.4,<1.5
+pillow>=10.3,<10.4
+ffmpeg-python>=0.2,<0.3
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.1
+PyQt6-sip==13.6.0
+pytest>=8.3,<9.0

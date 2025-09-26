@@ -1,0 +1,19 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+
+# Generated artifacts
+logs/
+undo/
+data/
+.cache/
+.pytest_cache/
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
