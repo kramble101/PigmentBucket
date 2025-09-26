@@ -1,0 +1,1 @@
+"""Pigment Bucket package root."""
